@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="50dp"
     android:background="@color/white"
     tools:context="com.chatt.Login" >
 
@@ -22,14 +21,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/pad_20dp"
-            android:src="@mipmap/logo_login" />
+            android:src="@drawable/logo_login" />
 
         <EditText
             android:id="@+id/email"
             style="@style/editext_graybg"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:drawableLeft="@mipmap/ic_username"
+            android:drawableLeft="@drawable/ic_username"
             android:hint="@string/email"
             android:inputType="textEmailAddress" >
 
@@ -42,7 +41,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/pad_5dp"
-            android:drawableLeft="@mipmap/ic_username"
+            android:drawableLeft="@drawable/ic_username"
             android:hint="@string/username" >
         </EditText>
 
@@ -53,7 +52,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/pad_20dp"
             android:layout_marginTop="@dimen/pad_5dp"
-            android:drawableLeft="@mipmap/ic_pwd"
+            android:drawableLeft="@drawable/ic_pwd"
             android:hint="@string/password"
             android:inputType="textPassword" >
         </EditText>

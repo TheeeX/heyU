@@ -4,702 +4,124 @@
     <shared>
       <config />
     </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml">
-        <config>
-          <theme>@style/AppTheme</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/chat_rcv_msg.xml">
-        <config>
-          <theme>@style/Platform.AppCompat</theme>
-        </config>
-      </layout>
-    </layouts>
-  </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f05bf68-441e-49e5-aae7-cd2b414de227" name="Default" comment="">
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_000092" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_000f1f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_000fec" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001064" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ae" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010af" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010b9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ba" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010bb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010bc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010bd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010be" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010bf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010c9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ca" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010cb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010cc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ce" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010cf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010d9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010da" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010db" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010dc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010dd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010df" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010e2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010eb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ee" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010f2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010f5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010f7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010fa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010fd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0010ff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001102" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001103" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001104" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001105" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001106" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001107" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001108" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001109" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00110a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00110c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00110d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00110e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00110f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001110" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001111" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001112" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001113" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001114" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001115" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001116" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001117" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001118" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001119" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00111f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001120" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001121" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001122" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001123" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001124" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001125" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001126" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001127" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001128" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001129" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00112f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001130" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001131" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001134" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001136" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001137" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001139" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00113f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001140" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001141" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001142" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001143" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001144" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001145" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001146" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001147" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001148" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001149" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00114f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001150" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001151" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001152" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001153" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001154" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001155" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001156" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001157" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001158" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001159" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00115f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001160" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001161" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001162" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001163" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001164" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001165" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001166" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001167" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001168" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001169" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00116f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001170" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001173" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001174" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001175" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001176" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001177" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001178" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001179" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00117a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00117c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00117d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00117e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00117f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001180" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001181" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001182" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001183" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001184" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001185" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001186" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001187" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001188" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00118b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00118c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00118d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00118e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00118f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001190" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001191" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001192" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001193" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001194" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001195" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001196" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001197" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001198" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001199" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00119f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011a9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011aa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ab" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ac" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ad" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ae" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011af" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011b9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ba" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011bb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011bc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011bd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011be" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011bf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011c9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ca" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011cb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011cc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011d9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011db" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011dc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011dd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011de" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011df" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011e9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ea" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011eb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ec" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ed" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ee" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ef" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011f9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011fa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011fb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011fc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011fd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011fe" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0011ff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001200" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001201" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001202" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001203" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001204" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001205" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001206" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001207" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001208" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001209" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00120f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001210" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001211" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001212" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001214" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001215" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001217" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001218" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00121f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001221" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001222" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001224" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001225" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00122c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00122f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001239" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00123a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00123c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00123d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00123e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00123f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001240" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001241" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001242" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001243" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001244" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001245" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001246" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001247" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001248" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001249" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00124a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00124c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00124d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001258" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00125f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001260" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001261" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001262" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001263" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001264" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001265" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001266" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001267" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001268" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001269" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00126f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001270" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001271" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001272" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001273" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001274" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001275" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001276" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001277" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001278" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001279" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00127f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001280" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001281" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001282" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001283" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001284" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001285" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001286" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001287" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001288" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001289" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00128a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00128b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001290" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001291" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001297" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_001298" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00129a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00129b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00129d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00129e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_00129f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012a5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/f_0012b6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Extension State/000013.log" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000182.ldb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000184.ldb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000185.log" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000186.ldb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Session Storage/000033.ldb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Session Storage/000035.log" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.config/chromium/Default/Session Storage/000036.ldb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/.local/share/RecentDocuments/de7ae725-faa4-cf01-d052-e725faa4cf01.desktop" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/login.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/login.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Login.java" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Cookies-journal" afterPath="$USER_HOME$/.config/chromium/Default/Cookies-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Cookies" afterPath="$USER_HOME$/.config/chromium/Default/Cookies" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Current Session" afterPath="$USER_HOME$/.config/chromium/Default/Current Session" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Current Tabs" afterPath="$USER_HOME$/.config/chromium/Default/Current Tabs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/domfileindex/DomFileIndex_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Favicons-journal" afterPath="$USER_HOME$/.config/chromium/Default/Favicons-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Favicons" afterPath="$USER_HOME$/.config/chromium/Default/Favicons" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.keystream.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.keystream.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.keystream" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.keystream" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project.keystream.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project.keystream.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project.keystream" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project.keystream" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.project_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filenameindex/FilenameIndex_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/frameworkdetectionindex/FrameworkDetectionIndex_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/History-journal" afterPath="$USER_HOME$/.config/chromium/Default/History-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/History" afterPath="$USER_HOME$/.config/chromium/Default/History" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/IdIndex_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/imagefileinfoindex/ImageFileInfoIndex_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Login Data-journal" afterPath="$USER_HOME$/.config/chromium/Default/Login Data-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Login Data" afterPath="$USER_HOME$/.config/chromium/Default/Login Data" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Extension State/MANIFEST-000001" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/MANIFEST-000001" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Session Storage/MANIFEST-000001" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/MANIFEST-000001" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Network Action Predictor-journal" afterPath="$USER_HOME$/.config/chromium/Default/Network Action Predictor-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Network Action Predictor" afterPath="$USER_HOME$/.config/chromium/Default/Network Action Predictor" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/relaxsymbolindex/RelaxSymbolIndex_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/relaxsymbolindex/RelaxSymbolIndex_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing Bloom Prefix Set" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom Prefix Set" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing Bloom" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Bloom" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing Cookies-journal" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing Cookies" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Cookies" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing Download" afterPath="$USER_HOME$/.config/chromium/Safe Browsing Download" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing UwS List Prefix Set" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List Prefix Set" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Safe Browsing UwS List" afterPath="$USER_HOME$/.config/chromium/Safe Browsing UwS List" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Shortcuts-journal" afterPath="$USER_HOME$/.config/chromium/Default/Shortcuts-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Shortcuts" afterPath="$USER_HOME$/.config/chromium/Default/Shortcuts" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/Stubs_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Sync Data/SyncData.sqlite3-journal" afterPath="$USER_HOME$/.config/chromium/Default/Sync Data/SyncData.sqlite3-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Sync Data/SyncData.sqlite3" afterPath="$USER_HOME$/.config/chromium/Default/Sync Data/SyncData.sqlite3" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Top Sites-journal" afterPath="$USER_HOME$/.config/chromium/Default/Top Sites-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Top Sites" afterPath="$USER_HOME$/.config/chromium/Default/Top Sites" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/Trigram.Index_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Visited Links" afterPath="$USER_HOME$/.config/chromium/Default/Visited Links" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Web Data-journal" afterPath="$USER_HOME$/.config/chromium/Default/Web Data-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Web Data" afterPath="$USER_HOME$/.config/chromium/Default/Web Data" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.id.index/android.id.index_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/android.value.resources.index/android.value.resources.index_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/attrib.dat.storageData" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/attrib.dat.storageData" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/attrib.dat.storageRecordIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/attrib.dat.storageRecordIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/bytecodeanalysis/bytecodeAnalysis.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/bytecodeanalysis/bytecodeAnalysis.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/bytecodeanalysis/bytecodeAnalysis" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/bytecodeanalysis/bytecodeAnalysis" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/LocalHistory/changes.storageData" afterPath="$USER_HOME$/.AndroidStudio1.2/system/LocalHistory/changes.storageData" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/LocalHistory/changes.storageRecordIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/LocalHistory/changes.storageRecordIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/content.dat.storageData" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/content.dat.storageData" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/content.dat.storageRecordIndex" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/content.dat.storageRecordIndex" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat.keystream.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat.keystream.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat.keystream" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat.keystream" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/contentHashes.dat_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/data_0" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_0" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Media Cache/data_0" afterPath="$USER_HOME$/.cache/chromium/Default/Media Cache/data_0" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/data_1" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_1" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Media Cache/data_1" afterPath="$USER_HOME$/.cache/chromium/Default/Media Cache/data_1" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Application Cache/Cache/data_1" afterPath="$USER_HOME$/.config/chromium/Default/Application Cache/Cache/data_1" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/GPUCache/data_1" afterPath="$USER_HOME$/.config/chromium/Default/GPUCache/data_1" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/data_2" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_2" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/data_3" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/data_3" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/kactivitymanagerd/resources/database-shm" afterPath="$USER_HOME$/.local/share/kactivitymanagerd/resources/database-shm" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/kactivitymanagerd/resources/database-wal" afterPath="$USER_HOME$/.local/share/kactivitymanagerd/resources/database-wal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/fileIdToHashId" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/fileIdToHashId" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/todoindex/fileIdToHashId" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/todoindex/fileIdToHashId" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/fileIdToHashId" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/fileIdToHashId" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/fileIdToHashId_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/idindex/fileIdToHashId_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/todoindex/fileIdToHashId_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/todoindex/fileIdToHashId_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/fileIdToHashId_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/trigram.index/fileIdToHashId_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/fileincludes/fileIncludes_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/fileincludes/fileIncludes_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3-shm" afterPath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3-shm" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3-wal" afterPath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3-wal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3" afterPath="$USER_HOME$/.local/share/baloo/file/fileMap.sqlite3" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/filetypes/filetypes_inputs_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType.keystream.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType.keystream.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType.keystream" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType.keystream" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/hashesWithFileType_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/klipper/history2.lst" afterPath="$USER_HOME$/.local/share/klipper/history2.lst" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/http_lifehacker.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_lifehacker.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/http_lifehacker.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/http_lifehacker.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_clients5.google.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_clients5.google.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_clients5.google.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_clients5.google.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_plus.google.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_plus.google.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_plus.google.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_plus.google.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_static.olark.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_static.olark.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_static.olark.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_static.olark.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.facebook.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage-journal" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage-journal" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage" afterPath="$USER_HOME$/.config/chromium/Default/Local Storage/https_www.youtube.com_0.localstorage" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/icon-cache.kcache" afterPath="$USER_HOME$/.cache/icon-cache.kcache" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/chromium/Default/Cache/index" afterPath="$USER_HOME$/.cache/chromium/Default/Cache/index" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.annotations/java.annotations.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.annotations/java.annotations.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.annotations/java.annotations" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.annotations/java.annotations" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.anonymous.baseref/java.anonymous.baseref.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.anonymous.baseref/java.anonymous.baseref.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.anonymous.baseref/java.anonymous.baseref" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.anonymous.baseref/java.anonymous.baseref" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.extlist/java.class.extlist.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.extlist/java.class.extlist.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.extlist/java.class.extlist" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.extlist/java.class.extlist" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.fqn/java.class.fqn_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.shortname/java.class.shortname.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.shortname/java.class.shortname.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.shortname/java.class.shortname" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.class.shortname/java.class.shortname" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.field.name/java.field.name.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.field.name/java.field.name.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.field.name/java.field.name" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.field.name/java.field.name" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.method.name/java.method.name.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.method.name/java.method.name.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.method.name/java.method.name" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/stubs/java.method.name/java.method.name" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.gradle/caches/modules-2/modules-2.lock" afterPath="$USER_HOME$/.gradle/caches/modules-2/modules-2.lock" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat.keystream.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat.keystream.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat.keystream" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat.keystream" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat_i.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat_i.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/names.dat_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/plasma_theme_breeze-dark_v0.9.7.kcache" afterPath="$USER_HOME$/.cache/plasma_theme_breeze-dark_v0.9.7.kcache" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/position.DB" afterPath="$USER_HOME$/.local/share/baloo/file/position.DB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/position.baseA" afterPath="$USER_HOME$/.local/share/baloo/file/position.baseA" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/position.baseB" afterPath="$USER_HOME$/.local/share/baloo/file/position.baseB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/postlist.DB" afterPath="$USER_HOME$/.local/share/baloo/file/postlist.DB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/postlist.baseA" afterPath="$USER_HOME$/.local/share/baloo/file/postlist.baseA" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/postlist.baseB" afterPath="$USER_HOME$/.local/share/baloo/file/postlist.baseB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/record.DB" afterPath="$USER_HOME$/.local/share/baloo/file/record.DB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/record.baseA" afterPath="$USER_HOME$/.local/share/baloo/file/record.baseA" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/record.baseB" afterPath="$USER_HOME$/.local/share/baloo/file/record.baseB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/records.dat.len" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/records.dat.len" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/caches/records.dat" afterPath="$USER_HOME$/.AndroidStudio1.2/system/caches/records.dat" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.gradle/daemon/2.2.1/registry.bin.lock" afterPath="$USER_HOME$/.gradle/daemon/2.2.1/registry.bin.lock" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.gradle/daemon/2.2.1/registry.bin" afterPath="$USER_HOME$/.gradle/daemon/2.2.1/registry.bin" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/termlist.DB" afterPath="$USER_HOME$/.local/share/baloo/file/termlist.DB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/termlist.baseA" afterPath="$USER_HOME$/.local/share/baloo/file/termlist.baseA" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/baloo/file/termlist.baseB" afterPath="$USER_HOME$/.local/share/baloo/file/termlist.baseB" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.143" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.143" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.189" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.189" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.280" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.280" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.308" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.308" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.338" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.338" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.351" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.351" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.373" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.373" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.512" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.512" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.553" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.553" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.605" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.605" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.677" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.677" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.692" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.692" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.703" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.703" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.712" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.712" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.808" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.808" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.829" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.829" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.839" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.839" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.874" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.874" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.99" afterPath="$USER_HOME$/.AndroidStudio1.2/system/stat/unit.99" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values.values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values.values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/idindex/values_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/todoindex/values_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values_i" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/.persistent/trigram.index/values_i" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/index/xmlproperties/xmlProperties_inputs" afterPath="$USER_HOME$/.AndroidStudio1.2/system/index/xmlproperties/xmlProperties_inputs" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.bash_history" afterPath="$USER_HOME$/.bash_history" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.gitconfig" afterPath="$USER_HOME$/.gitconfig" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.xsession-errors" afterPath="$USER_HOME$/.xsession-errors" />
+    <list default="true" id="22856d0f-4f1f-4991-a31d-6bdbc5f169f8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/resources/com/chatt/demo/custom/.CustomActivity.java.kate-swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/Parse-1.4.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/aidl/debug/dependency.store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/chatt/demo/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/Chat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/utils/Const.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/model/Conversation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/custom/CustomActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/HeyU.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/Login.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Parse_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/Register.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/utils/TouchEffect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/UserList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/chatt/demo/utils/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/chat.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/chat_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/chat_item_rcv.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/chat_item_rcv.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/chat_item_sent.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/chat_item_sent.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/register.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/user_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.directory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/Parse-1.9.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/pixie/heyu/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Login.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Register.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/custom/CustomActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/heyU.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/model/Conversation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Const.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/TouchEffect.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/chat_rcv_msg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/chat_snd_msg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_chat.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_custom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_login.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_register.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_touch_effect.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_user_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gradle.properties" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/actionbar_bg.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/actionbar_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/arrow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/back_arrow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/back_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/chat_bubble_gray.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/chat_bubble_gray.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/chat_bubble_green.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/chat_bubble_green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/editext_bg_gray.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/editext_bg_gray.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/edittext_bg.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/green_btn.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/green_btn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_compose.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_compose.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_offline.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_offline.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_online.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_online.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_pwd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_pwd.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_send.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_username.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_username.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo_login.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo_login.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/user_chat1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/user_chat1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/user_chat2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/user_chat2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Extension State/LOG" afterPath="$USER_HOME$/.config/chromium/Default/Extension State/LOG" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/LOG" afterPath="$USER_HOME$/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/LOG" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Session Storage/LOG" afterPath="$USER_HOME$/.config/chromium/Default/Session Storage/LOG" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Local State" afterPath="$USER_HOME$/.config/chromium/Local State" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/Preferences" afterPath="$USER_HOME$/.config/chromium/Default/Preferences" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/chromium/Default/TransportSecurity" afterPath="$USER_HOME$/.config/chromium/Default/TransportSecurity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.local/share/Trash/directorysizes" afterPath="$USER_HOME$/.local/share/Trash/directorysizes" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/feature.usage.statistics.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/feature.usage.statistics.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio1.2/system/log/idea.log" afterPath="$USER_HOME$/.AndroidStudio1.2/system/log/idea.log" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/kwalletrc" afterPath="$USER_HOME$/.config/kwalletrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_login.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.config/plasma-org.kde.plasma.desktop-appletsrc" afterPath="$USER_HOME$/.config/plasma-org.kde.plasma.desktop-appletsrc" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.cache/plasma-svgelements-breeze-dark_v0.9.7" afterPath="$USER_HOME$/.cache/plasma-svgelements-breeze-dark_v0.9.7" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.application.usages.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.application.usages.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/chat.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/chat.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/register.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/register.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/user_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/user_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="HeyU.iws" />
+    <ignored path="ChattDemo Main.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -714,104 +136,36 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="HeyU" />
+    <favorites_list name="ChattDemo Main" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <file leaf-file-name="import-summary.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import-summary.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="43" />
-              <folding>
-                <element signature="e#1522#1540#0" expanded="true" />
-              </folding>
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Register.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Register.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1874#1899#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1525#1550#0" expanded="true" />
-                <element signature="e#1682#1712#0" expanded="true" />
-                <element signature="e#1761#2523#0" expanded="true" />
-                <element signature="e#2330#2359#0" expanded="true" />
-                <element signature="e#2522#2523#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
+      <file leaf-file-name="chat.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.862069">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-              <folding>
-                <element signature="e#1264#1282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-              <folding>
-                <element signature="e#2175#2208#0" expanded="true" />
-                <element signature="e#2737#2763#0" expanded="true" />
-                <element signature="e#3938#3967#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chat.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7122558">
-              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
-              <folding>
-                <element signature="e#4901#4909#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.25512105">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1216,16 +570,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1719,16 +1063,6 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
@@ -1847,7 +1181,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4311161364232" />
+        <entry key="$PROJECT_DIR$" value="4311679479339" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2013,11 +1347,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.4/4216af16d38465bbab0f3dff8efa14204f7a399a/commons-codec-1.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.lombok/lombok-ast/0.2.3/b4f90836c51edefa4a38c97877b709ed2c15ee32/lombok-ast-0.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.lombok/lombok-ast/0.2.3/528b6f8bde3157f17530aa366631f2aad2a6cf9/lombok-ast-0.2.3.jar" />
-                            <option value="/opt/android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0.aar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar" />
-                            <option value="/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0.aar" />
-                            <option value="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar" />
-                            <option value="$MODULE_DIR$/libs/Parse-1.9.3.jar" />
+                            <option value="/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar" />
+                            <option value="$MODULE_DIR$/libs/Parse-1.4.0.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
@@ -2144,79 +1475,13 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/MainActivity.java" />
-        <option value="$PROJECT_DIR$/gradle.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_activity2.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/MainActivity2Activity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login_activity.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Login_activity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dispatch.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/DispatchActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/LoginActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/MyActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sample_application.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/SampleApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/SignUpActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sign_up_or_login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/SignUpOrLoginActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_test.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/test.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/heyU.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_rcv_msg.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_snd_msg.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/register.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/user_list.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_custom.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_touch_effect.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/TouchEffect.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/custom/CustomActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Utils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Const.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Register.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_user_list.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_chatt_app.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/ChattApp.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/model/Conversation.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/login.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
-  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="width" value="1374" />
-    <option name="height" value="742" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -2225,11 +1490,11 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2241,35 +1506,19 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
+              <option name="myItemId" value="ChattDemo Main" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
+              <option name="myItemId" value="ChattDemo Main" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2277,137 +1526,90 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="ChattDemo Main" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="ChattDemo Main" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeyU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="ChattDemo Main" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChattDemo Main" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="HeyU">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4d0011835add80d3" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="android.template.packageName">
-      <recent name="com.example.pixie.heyu" />
-      <recent name="com.example.pixie.heyu.utils" />
-      <recent name="com.example.pixie.heyu.custom" />
-    </key>
-    <key name="android.template.parentActivityClass">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Android Application.Confg1">
+  <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
@@ -2419,10 +1621,10 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_PROJECT_ID" value="Please select a project..." />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
       <option name="IS_VALID_CLOUD_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_SELECTION_ERROR" value="Matrix configuration not specified" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -2479,15 +1681,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -2552,7 +1745,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="Confg1" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="app" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
@@ -2563,21 +1756,21 @@
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="true" />
+      <option name="WIPE_USER_DATA" value="false" />
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_PROJECT_ID" value="Please select a project..." />
+      <option name="SELECTED_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_PROJECT_ID" value="" />
       <option name="IS_VALID_CLOUD_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_SELECTION_ERROR" value="Matrix configuration not specified" />
+      <option name="INVALID_CLOUD_SELECTION_ERROR" value="" />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android Application.Confg1" />
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -2598,53 +1791,44 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f05bf68-441e-49e5-aae7-cd2b414de227" name="Default" comment="" />
-      <created>1437051402201</created>
+      <changelist id="22856d0f-4f1f-4991-a31d-6bdbc5f169f8" name="Default" comment="" />
+      <created>1437226493046</created>
       <option name="number" value="Default" />
-      <updated>1437051402201</updated>
+      <updated>1437226493046</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1374" height="742" extended-state="6" />
+    <frame x="-4" y="0" width="1374" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10829103" sideWeight="0.4969743" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15656565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3464448" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21489002" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54145515" sideWeight="0.49394855" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282572" sideWeight="0.5060514" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21331316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3147208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2659,222 +1843,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java</url>
-          <line>3</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Register.java</url>
-          <line>67</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="3" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#412#430#0" expanded="true" />
-            <element signature="e#1289#1307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#412#430#0" expanded="true" />
-            <element signature="e#1289#1307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5989305">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39786857">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_rcv_msg.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#433#450#0" expanded="false" />
-            <element signature="e#616#632#0" expanded="false" />
-            <element signature="e#661#683#0" expanded="false" />
-            <element signature="e#711#727#0" expanded="false" />
-            <element signature="e#1004#1021#0" expanded="false" />
-            <element signature="e#1294#1311#0" expanded="false" />
-            <element signature="e#1607#1624#0" expanded="false" />
-            <element signature="e#1741#1757#0" expanded="false" />
-            <element signature="e#1792#1809#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39786857">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/chat_bubble_gray.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_snd_msg.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#507#524#0" expanded="false" />
-            <element signature="e#691#707#0" expanded="false" />
-            <element signature="e#736#753#0" expanded="false" />
-            <element signature="e#783#805#0" expanded="false" />
-            <element signature="e#833#849#0" expanded="false" />
-            <element signature="e#1113#1130#0" expanded="false" />
-            <element signature="e#1388#1405#0" expanded="false" />
-            <element signature="e#1704#1721#0" expanded="false" />
-            <element signature="e#1838#1854#0" expanded="false" />
-            <element signature="e#1890#1907#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_rcv_msg.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.172414">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#433#450#0" expanded="false" />
-            <element signature="e#616#632#0" expanded="false" />
-            <element signature="e#661#683#0" expanded="false" />
-            <element signature="e#711#727#0" expanded="false" />
-            <element signature="e#1004#1021#0" expanded="false" />
-            <element signature="e#1294#1311#0" expanded="false" />
-            <element signature="e#1607#1624#0" expanded="false" />
-            <element signature="e#1741#1757#0" expanded="false" />
-            <element signature="e#1792#1809#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#394#411#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_online.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_snd_msg.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.62069">
-          <caret line="12" column="44" selection-start-line="10" selection-start-column="28" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="e#507#524#0" expanded="false" />
-            <element signature="e#691#707#0" expanded="false" />
-            <element signature="e#736#753#0" expanded="false" />
-            <element signature="e#783#805#0" expanded="false" />
-            <element signature="e#833#849#0" expanded="false" />
-            <element signature="e#1113#1130#0" expanded="false" />
-            <element signature="e#1388#1405#0" expanded="false" />
-            <element signature="e#1704#1721#0" expanded="false" />
-            <element signature="e#1838#1854#0" expanded="false" />
-            <element signature="e#1890#1907#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2884,111 +1861,16 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1264#1282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77264655">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/register.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#569#586#0" expanded="false" />
-            <element signature="e#615#632#0" expanded="false" />
-            <element signature="e#662#679#0" expanded="false" />
-            <element signature="e#707#724#0" expanded="false" />
-            <element signature="e#925#942#0" expanded="false" />
-            <element signature="e#1265#1280#0" expanded="false" />
-            <element signature="e#1612#1628#0" expanded="false" />
-            <element signature="e#1709#1727#0" expanded="false" />
-            <element signature="e#1982#1999#0" expanded="false" />
-            <element signature="e#2037#2053#0" expanded="false" />
-            <element signature="e#2129#2147#0" expanded="false" />
-            <element signature="e#2673#2690#0" expanded="false" />
-            <element signature="e#2762#2780#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/register.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14981273">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="e#569#586#0" expanded="false" />
-            <element signature="e#615#632#0" expanded="false" />
-            <element signature="e#662#679#0" expanded="false" />
-            <element signature="e#707#724#0" expanded="false" />
-            <element signature="e#925#942#0" expanded="false" />
-            <element signature="e#1265#1280#0" expanded="false" />
-            <element signature="e#1612#1628#0" expanded="false" />
-            <element signature="e#1709#1727#0" expanded="false" />
-            <element signature="e#1982#1999#0" expanded="false" />
-            <element signature="e#2037#2053#0" expanded="false" />
-            <element signature="e#2129#2147#0" expanded="false" />
-            <element signature="e#2673#2690#0" expanded="false" />
-            <element signature="e#2762#2780#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/user_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_item.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17977528">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#394#411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2997,171 +1879,36 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22097379">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/custom/CustomActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.67673177">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/user_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35955057">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Utils.java">
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/Const.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22735347">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/model/Conversation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3410302">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1186#1187#0" expanded="false" />
-            <element signature="e#1212#1213#0" expanded="false" />
-            <element signature="e#1346#1347#0" expanded="false" />
-            <element signature="e#1376#1377#0" expanded="false" />
-            <element signature="e#1492#1493#0" expanded="false" />
-            <element signature="e#1557#1558#0" expanded="false" />
-            <element signature="e#1659#1660#0" expanded="false" />
-            <element signature="e#1686#1687#0" expanded="false" />
-            <element signature="e#1823#1824#0" expanded="false" />
-            <element signature="e#1855#1856#0" expanded="false" />
-            <element signature="e#1965#1966#0" expanded="false" />
-            <element signature="e#1994#1995#0" expanded="false" />
-            <element signature="e#2143#2144#0" expanded="false" />
-            <element signature="e#2179#2180#0" expanded="false" />
-            <element signature="e#2286#2287#0" expanded="false" />
-            <element signature="e#2315#2316#0" expanded="false" />
-            <element signature="e#2461#2462#0" expanded="false" />
-            <element signature="e#2497#2498#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/utils/TouchEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/heyU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.312611">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1874#1899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/android-sdk/sources/android-22/android/app/ActivityThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3309091">
-          <caret line="2291" column="0" selection-start-line="2291" selection-start-column="0" selection-end-line="2291" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.862069">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="e#1264#1282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1525#1550#0" expanded="true" />
-            <element signature="e#1682#1712#0" expanded="true" />
-            <element signature="e#1761#2523#0" expanded="true" />
-            <element signature="e#2330#2359#0" expanded="true" />
-            <element signature="e#2522#2523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="e#1522#1540#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/UserList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding>
-            <element signature="e#2175#2208#0" expanded="true" />
-            <element signature="e#2737#2763#0" expanded="true" />
-            <element signature="e#3938#3967#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat.xml">
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/pixie/heyu/Chat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7122558">
-          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
-          <folding>
-            <element signature="e#4901#4909#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.25512105">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
