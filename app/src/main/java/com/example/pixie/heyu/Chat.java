@@ -75,7 +75,11 @@ public class Chat extends CustomActivity {
         setTouchNClick(R.id.btnSend);
 
         buddy = getIntent().getStringExtra(Const.EXTRA_DATA);
-        getActionBar().setTitle(buddy);
+        try {
+            getActionBar().setTitle(buddy);
+        }catch (NullPointerException ex){
+                System.out.print("Errorrrrrrrrr------------"+ex);
+        }
 
         handler = new Handler();
     }

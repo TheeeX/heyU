@@ -40,7 +40,11 @@ public class UserList extends CustomActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.user_list);
 
-        getActionBar().setDisplayHomeAsUpEnabled(false);
+        try{
+            getActionBar().setDisplayHomeAsUpEnabled(false);
+        }catch (NullPointerException ex){
+            System.out.print("Errorrrrrrrrr------------"+ex);
+        }
 
         updateUserStatus(true);
     }

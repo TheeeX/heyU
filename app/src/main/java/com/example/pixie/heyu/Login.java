@@ -12,7 +12,7 @@ import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 
-public class login extends  CustomActivity{
+public class Login extends  CustomActivity{
 
     /** The username edittext. */
     private EditText user;
@@ -68,13 +68,13 @@ public class login extends  CustomActivity{
                     if (pu != null)
                     {
                         UserList.user = pu;
-                        startActivity(new Intent(login.this, UserList.class));
+                        startActivity(new Intent(Login.this, UserList.class));
                         finish();
                     }
                     else
                     {
                         Utils.showDialog(
-                                login.this,
+                                Login.this,
                                 getString(R.string.err_login) + " "
                                         + e.getMessage());
                         e.printStackTrace();
